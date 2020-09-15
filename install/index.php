@@ -4,15 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="DABACH NET">
     <title>Résultats PLUS - Installation..</title>
-
     <link rel="stylesheet" href="libs/css/bootstrap.css">
-
-
-
   </head>
-
 <body>
 
 
@@ -27,8 +21,6 @@
     <h5>Installation</h5>
   </div>
   <div class="card-body text-center">
-
-
 
 <h2 style="text-transform: uppercase;" class="title">Résultats PLUS v1.0</h2>
 <h5 style="text-transform: uppercase;">Système de gestion des résultats.</h5>
