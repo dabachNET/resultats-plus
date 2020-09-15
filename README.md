@@ -1,8 +1,6 @@
 # Résultats plus
 Résultats plus - système de gestion des résultats
 
-Résultats plus - système de gestion des résultats
-
 Résultats plus est un système de gestion des résultats des examens en ligne.
 
 - Gestion des résultats, étudiants, classes, matières..
