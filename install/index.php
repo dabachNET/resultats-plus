@@ -31,8 +31,6 @@
 </div>
 
 
-<p class="text-center mt-4">Copyright &copy; 2019 Résultats <small>PLUS</small> . All Rights Reserved.</p>
-<p style="text-align: center;"><a href="https://dabach.net/resultats_plus/"><img src="libs/img/dabach.png" width="120px" /></a></p>
 
 
 </div>
