@@ -1,4 +1,19 @@
-<!DOCTYPE html>
+<?php 
+
+/*
+    Powered by Résultats PLUS
+    Système de gestion des résultats 
+    www.dabach.net
+    dabach.net@gmail.com
+*/
+
+if (version_compare(PHP_VERSION, "5.6.0", "<")) {
+  print "Requires PHP 5.6.0 or newer.\n";
+  exit;
+}
+
+
+ ?><!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="UTF-8">
